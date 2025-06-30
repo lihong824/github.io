@@ -1,9 +1,12 @@
 body {
-  font-family: Arial, sans-serif;
+  background-color: white; /* sets background to white */
+  font-family: 'Open Sans', Arial, sans-serif; /* clean, readable font */
+  color: #333333; /* dark grey text for good readability */
   margin: 0;
   padding: 0;
   line-height: 1.6;
 }
+
 
 header {
   background: #003366;
